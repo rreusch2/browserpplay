@@ -1,0 +1,8 @@
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+sse-starlette>=1.8.2
+python-dotenv>=1.0.1
+browser-use>=0.7.8
+supabase>=2.9.0
+Pillow>=10.4.0
+
