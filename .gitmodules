@@ -1,3 +1,0 @@
-[submodule "python-services/browser_agent_service"]
-	path = python-services/browser_agent_service
-	url = https://github.com/rreusch2/browserpplay.git
